@@ -1,5 +1,5 @@
 <b>> Página de compra do controle PS5 da loja Playstation</b>
-Desenvolvido atraves das aulas do Rodrigo Mori no Youtube.
+Desenvolvido atraves das aulas do Rodolfo Mori no Youtube.
 
 <img src="./assets/ps.png" alt="PlayStation">
 
